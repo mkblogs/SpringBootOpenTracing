@@ -6,6 +6,11 @@ This is Simple Spring Boot Open Tracing Example
 
 https://opentracing.io/docs/overview/what-is-tracing/
 
+### Run
+```
+ docker-compose up -d
+```
+
 ### Dependency Section
 ```xml 
  <dependency>
