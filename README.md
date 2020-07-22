@@ -2,7 +2,7 @@
 
 This is Simple Spring Boot Open Tracing Example
 
-###About Open Tracing
+### About Open Tracing
 
 https://opentracing.io/docs/overview/what-is-tracing/
 
